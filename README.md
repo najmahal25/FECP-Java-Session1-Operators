@@ -2,6 +2,5 @@
 
 Name: Jan Ryan S. Hidalgo <br />
 Project Title: Lab 1: Celsius to Fahrenheit Converter <br />
-Screenshots:
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img1.png](img1.png)
+![img2.png](img2.png)
